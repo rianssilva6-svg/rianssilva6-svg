@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!&fontSize=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20World!&fontSize=50&animation=fadeIn" width="100%" />
+</p>
 
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil
 
