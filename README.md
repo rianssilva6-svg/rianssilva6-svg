@@ -50,7 +50,7 @@ Meu objetivo é unir interface + lógica + integração + organização de códi
 
 🛠️ Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea&perline=8" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,cs,dotnet,java,python" alt="Tecnologias"/>
 
 </div>
 
