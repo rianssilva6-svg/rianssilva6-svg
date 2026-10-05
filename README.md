@@ -1,261 +1,349 @@
 <div align="center">
 
+👨‍💻 RIAN SILVA
+
+Desenvolvedor de Software | Angular • C# • Java • Python
+
+<a href="https://github.com/rianssilva6-svg">
+  <img src="https://img.shields.io/github/followers/rianssilva6-svg?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores"/>
+</a>
+<a href="https://github.com/rianssilva6-svg?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/>
+</a>
+<img src="https://img.shields.io/badge/Status-Em%20evolução-2ea44f?style=for-the-badge" alt="Status"/>
+
+<br><br>
+
 <img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Olá,%20eu%20sou%20Rian!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
- alt="Banner do perfil"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Transformando%20ideias%20em%20software&fontSize=31&fontColor=ffffff&animation=fadeIn&fontAlignY=37&color=gradient"
+width="100%"
+alt="Banner"
 />
-
-  <h2>Desenvolvedor de Software • Front-end • Back-end • APIs</h2>
-
-  <p>
-    Construindo aplicações com foco em organização, funcionalidade,<br/>
-    boas práticas e experiência do usuário.
-  </p>
-
-  <p>
-    <a href="https://github.com/rianssilva6-svg">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </p>
 
 </div>
 
-👋 Sobre mim
+<div align="center">
 
-Sou desenvolvedor com conhecimentos em HTML, CSS, JavaScript, Python, C# e Java, com atuação e estudos voltados também para o ecossistema Angular.
+🚀 SOBRE MIM
 
-Gosto de transformar ideias em aplicações organizadas, funcionais e com uma experiência de uso consistente. Tenho um perfil analítico e observador, buscando entender não apenas como uma solução funciona, mas também por que determinada abordagem faz sentido.
+</div>
 
-Meu foco está em evoluir continuamente tanto no desenvolvimento de interfaces quanto na construção de soluções de back-end, APIs e integrações entre sistemas.
+Sou desenvolvedor de software com experiência e estudos em HTML, CSS, JavaScript, Angular, C#, Java e Python.
 
-Objetivo: escrever código que seja fácil de entender hoje e fácil de manter amanhã.
+Tenho um perfil analítico, curioso e atento aos detalhes, buscando transformar problemas em soluções organizadas, funcionais e fáceis de manter.
 
-🚀 Tecnologias e conhecimentos
+Meu objetivo é unir interface + lógica + integração + organização de código, evoluindo cada vez mais na construção de aplicações modernas.
+
+💡 Não quero apenas fazer o código funcionar. Quero entender o problema, construir uma boa solução e deixar o projeto preparado para evoluir.
+
+<div align="center">
+
+🧠 STACK PRINCIPAL
 
 🎨 Front-end
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular&theme=dark" alt="Tecnologias Front-end"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular&perline=8" alt="Front-end"/>
+
+⚙️ Back-end & Linguagens
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python&perline=8" alt="Back-end"/>
+
+🛠️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea&perline=8" alt="Ferramentas"/>
+
 </div>
 
-HTML5 para estruturação semântica de páginas e aplicações.
+🔥 O QUE ESTOU CONSTRUINDO
 
-CSS3 para estilização, responsividade e construção de interfaces.
-
-JavaScript para lógica, interações e aplicações web dinâmicas.
-
-Angular para desenvolvimento de aplicações front-end modernas, componentizadas e organizadas.
-
-⚙️ Back-end e programação
-
-<div>
-  <img src="https://skillicons.dev/icons?i=cs,java,python&theme=dark" alt="Tecnologias Back-end"/>
-</div>
-
-C# com foco no desenvolvimento de aplicações e soluções no ecossistema .NET.
-
-Java para desenvolvimento orientado a objetos e construção de aplicações.
-
-Python para automações, lógica, scripts e desenvolvimento de soluções.
-
-🔌 APIs, integração e arquitetura
-
-Tenho interesse em trabalhar com:
-
-APIs REST e comunicação entre aplicações.
-
-Integração entre front-end e back-end.
-
-Organização de projetos por responsabilidades.
-
-Componentização e reutilização de código.
-
-Tratamento de erros e validações.
-
-Estruturas preparadas para manutenção e evolução.
-
-Princípios de código limpo e boas práticas de desenvolvimento.
-
-🧠 Como penso no desenvolvimento
-
-Problema
-   ↓
-Entendimento dos requisitos
-   ↓
-Planejamento da solução
-   ↓
-Implementação
-   ↓
-Validação e testes
-   ↓
-Refatoração
-   ↓
-Entrega e evolução contínua
-
-Mais do que apenas fazer uma aplicação funcionar, busco considerar:
-
-Legibilidade → Organização → Manutenibilidade → Desempenho → Experiência do usuário
-
-🛠️ Ferramentas e ambiente
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea&theme=dark" alt="Ferramentas"/>
-</div>
-
-Também utilizo conceitos e práticas relacionados a:
-
-Controle de versão com Git.
-
-Fluxo de trabalho com GitHub.
-
-Desenvolvimento e depuração em IDEs e editores modernos.
-
-Organização de repositórios e documentação.
-
-Separação de ambientes e configuração de projetos.
-
-📚 Atualmente focado em
-
-Minha evolução profissional está direcionada principalmente para a combinação entre Angular + C# + Java, ampliando também minha base em Python e desenvolvimento web.
-
-Trilhas que fazem parte do meu aprendizado
-
-🔹 Desenvolvimento de aplicações Angular.
-
-🔹 APIs e desenvolvimento de back-end.
-
-🔹 Integração entre sistemas.
-
-🔹 Programação orientada a objetos.
-
-🔹 Arquitetura e organização de aplicações.
-
-🔹 Boas práticas, refatoração e código limpo.
-
-🔹 Versionamento e colaboração com Git/GitHub.
-
-🔹 Construção de projetos que possam crescer sem perder organização.
-
-🧩 O que você pode encontrar nos meus projetos
-
-Nos meus repositórios, a ideia é reunir projetos que demonstrem evolução prática e diferentes aspectos do desenvolvimento de software, como:
-
-Área
-
-Exemplos
-
-🌐 Web
-
-Interfaces, páginas e aplicações responsivas
+<table>
+<tr>
+<td width="50%">
 
 🅰️ Angular
 
-Componentes, serviços, rotas, formulários e integração com APIs
+Desenvolvimento de aplicações web com foco em:
 
-💜 C#/.NET
+Componentização
 
-Lógica de negócio, APIs e aplicações
+Rotas e navegação
+
+Serviços
+
+Formulários
+
+Consumo de APIs
+
+Organização de projetos
+
+Interfaces responsivas
+
+</td>
+<td width="50%">
+
+💜 C# / .NET
+
+Explorando e desenvolvendo soluções envolvendo:
+
+Programação orientada a objetos
+
+APIs
+
+Regras de negócio
+
+Integração de sistemas
+
+Estruturação de aplicações
+
+Boas práticas de desenvolvimento
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ☕ Java
 
-POO, aplicações e soluções de back-end
+Fortalecendo conhecimentos em:
+
+POO
+
+Estrutura e organização de aplicações
+
+Lógica de programação
+
+Back-end
+
+Construção de soluções escaláveis
+
+</td>
+<td width="50%">
 
 🐍 Python
 
-Scripts, automações e experimentos
+Utilizando principalmente para:
 
-🔗 Integrações
+Scripts
 
-Comunicação entre aplicações e serviços
+Automação
+
+Lógica
+
+Experimentação
+
+Desenvolvimento de pequenas soluções
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🏗️ COMO EU ENXERGO UM PROJETO
+
+</div>
+
+                     ┌──────────────────────┐
+                     │       PROBLEMA       │
+                     └──────────┬───────────┘
+                                ↓
+                     ┌──────────────────────┐
+                     │   ENTENDER REQUISITOS│
+                     └──────────┬───────────┘
+                                ↓
+                     ┌──────────────────────┐
+                     │      PLANEJAR        │
+                     └──────────┬───────────┘
+                                ↓
+             ┌──────────────────┴──────────────────┐
+             ↓                                     ↓
+    ┌──────────────────┐                  ┌──────────────────┐
+    │    FRONT-END     │ ←────── API ─────→│     BACK-END     │
+    │     Angular      │                  │    C# / Java     │
+    └──────────────────┘                  └──────────────────┘
+             └──────────────────┬──────────────────┘
+                                ↓
+                     ┌──────────────────────┐
+                     │   TESTAR + REVISAR   │
+                     └──────────┬───────────┘
+                                ↓
+                     ┌──────────────────────┐
+                     │    EVOLUIR SEMPRE    │
+                     └──────────────────────┘
+
+🎯 ÁREAS QUE FAZEM PARTE DA MINHA EVOLUÇÃO
+
+Área
+
+Foco
+
+🖥️ Front-end
+
+Interfaces modernas, responsivas e componentizadas
+
+🅰️ Angular
+
+Aplicações web estruturadas e integração com APIs
+
+🔗 APIs
+
+Comunicação entre sistemas e serviços
+
+💜 C# / .NET
+
+Back-end, regras de negócio e aplicações
+
+☕ Java
+
+Orientação a objetos e desenvolvimento de aplicações
+
+🐍 Python
+
+Automação, scripts e experimentos
+
+🧩 Arquitetura
+
+Organização, separação de responsabilidades e manutenção
 
 🧪 Qualidade
 
-Validações, testes e refatoração
+Validação, testes e refatoração
 
-📖 Estudos
+🌱 Aprendizado
 
-Exercícios, desafios e projetos de aprendizado
-
-🎯 Objetivos profissionais
-
-✅ Evoluir como desenvolvedor full stack
-✅ Aprofundar conhecimentos em Angular
-✅ Fortalecer minha atuação com C#/.NET e Java
-✅ Construir APIs e aplicações mais robustas
-✅ Aprimorar arquitetura e organização de software
-✅ Escrever código cada vez mais limpo e sustentável
-✅ Transformar conhecimento em projetos práticos
-
-📈 Minha filosofia
-
-Aprender → Praticar → Construir → Analisar → Melhorar
-
-Acredito que desenvolvimento de software é um processo contínuo. Cada projeto é uma oportunidade de aprender uma tecnologia nova, resolver um problema diferente e melhorar a forma de construir soluções.
-
-🌱 Além do código
-
-Também valorizo aspectos que fazem parte de um bom processo de desenvolvimento:
-
-Comunicação clara.
-
-Organização das tarefas.
-
-Curiosidade para investigar problemas.
-
-Atenção aos detalhes.
-
-Capacidade de aprender com erros.
-
-Busca constante por soluções mais simples e sustentáveis.
-
-📊 GitHub
+Evolução contínua através de projetos práticos
 
 <div align="center">
 
+📈 EVOLUÇÃO CONSTANTE
+
+<table>
+<tr>
+<td align="center">
+<h3>💻</h3>
+<strong>Código</strong><br/>
+Qualidade e organização
+</td>
+<td align="center">
+<h3>🧠</h3>
+<strong>Conhecimento</strong><br/>
+Aprendizado contínuo
+</td>
+<td align="center">
+<h3>🧩</h3>
+<strong>Soluções</strong><br/>
+Problemas reais
+</td>
+<td align="center">
+<h3>🚀</h3>
+<strong>Projetos</strong><br/>
+Prática constante
+</td>
+</tr>
+</table>
+
+</div>
+
+📚 EM FOCO
+
+🟢 Agora
+
+Angular + C# + Java + desenvolvimento de APIs
+
+🔵 Próximo passo
+
+Arquitetura, integração, testes, código limpo e aplicações mais robustas
+
+🟣 Visão de longo prazo
+
+Atuação full stack com domínio cada vez maior de front-end, back-end e arquitetura de software
+
+🧰 PRINCÍPIOS QUE BUSCO APLICAR
+
+desenvolvimento:
+  legibilidade: true
+  organização: true
+  reutilização: true
+  manutenção: true
+  documentação: true
+
+mentalidade:
+  aprender_continuamente: true
+  questionar_solucoes: true
+  resolver_problemas: true
+  melhorar_iterativamente: true
+
+<div align="center">
+
+📊 GITHUB
+
 <img
- height="180em"
- src="https://github-readme-stats.vercel.app/api?username=rianssilva6-svg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
- alt="Estatísticas do GitHub"
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=rianssilva6-svg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+alt="Estatísticas do GitHub"
 />
 
 <img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianssilva6-svg&layout=compact&langs_count=8&theme=tokyonight"
- alt="Principais linguagens"
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianssilva6-svg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+alt="Linguagens mais utilizadas"
+/>
+
+<br>
+
+<img
+src="https://streak-stats.demolab.com?user=rianssilva6-svg&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
 />
 
 </div>
 
-🔥 Atividade
+🐍 CONTRIBUIÇÕES
 
 <div align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=rianssilva6-svg&theme=tokyonight&hide_border=true"
- alt="GitHub Streak"
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+alt="Animação das contribuições"
 />
 
 </div>
 
-🤝 Vamos construir algo?
-
-Estou sempre buscando transformar conhecimento em prática e projetos em aprendizado.
-
-Se você chegou até aqui, seja bem-vindo ao meu espaço de desenvolvimento.
-Explore os repositórios, acompanhe a evolução e veja os projetos ganhando forma. 🚀
+🌟 O QUE VOCÊ VAI ENCONTRAR AQUI
 
 <div align="center">
 
-💻 Código bem escrito é investimento no futuro do projeto.
+Projetos • Estudos • Experimentos • APIs • Interfaces • Código
 
-<br/>
+</div>
+
+Este perfil reúne projetos desenvolvidos durante minha jornada de aprendizado e evolução.
+
+A ideia é que cada repositório represente alguma etapa dessa trajetória: uma tecnologia nova, um problema diferente, uma tentativa de melhorar uma solução ou simplesmente a oportunidade de colocar conhecimento em prática.
+
+🤝 CONECTE-SE COMIGO
+
+<div align="center">
+
+<a href="https://github.com/rianssilva6-svg">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+⚡ Aprender. Construir. Errar. Melhorar. Repetir.
+
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"
+width="100%"
 alt="Rodapé"
 />
+
+<sub>Feito com 💻, curiosidade e muito código.</sub>
 
 </div>
